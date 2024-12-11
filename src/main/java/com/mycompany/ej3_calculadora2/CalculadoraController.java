@@ -12,7 +12,7 @@ import javafx.scene.control.TextField;
 /**
  * FXML Controller class
  *
- * @author alumno
+ * @author ana 
  */
 public class CalculadoraController implements Initializable 
 {
