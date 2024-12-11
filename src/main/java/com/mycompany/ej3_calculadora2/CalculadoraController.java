@@ -159,6 +159,10 @@ public class CalculadoraController implements Initializable
         }
     }
     
+    /**
+     * Metodo para hacer el calculo
+     * @param event Calcular
+     */
     @FXML
     private void calcular(ActionEvent event) 
     {      
