@@ -1,1 +1,1 @@
-Mi Futura versión mejorada de una calculadora  
+Mi Futura versión mejorada de una calculadora  🖩
